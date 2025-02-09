@@ -6,31 +6,31 @@
 Here are the sample outputs of the programs:
 
 ### Task 1 Output:
-![Task 1Output](output/Task1output.png)
+![Task 1Output](outputs/Task1output.png)
 
 ### Task 2 Output:
-![Task 2 Output](output/Task2output.png)
+![Task 2 Output](outputs/Task2output.png)
 
 ### Task 3 Output 1:
-![Task 3 Output 1](output/Task3output1.png)
+![Task 3 Output 1](outputs/Task3output1.png)
 
 ### Task 3 Output 2:
-![Task 3 Output 2](output/Task3output2.png)
+![Task 3 Output 2](outputs/Task3output2.png)
 
 ### Task 4 Output:
-![Task 4 Output](output/Task4output.png)
+![Task 4 Output](outputs/Task4output.png)
 
 ### Task 5 Output 1:
-![Task 5 Output 1](output/Task5output1.png)
+![Task 5 Output 1](outputs/Task5output1.png)
 
 ### Task 5 Output 2:
-![Task 5 Output 2](output/Task5output2.png)
+![Task 5 Output 2](outputs/Task5output2.png)
 
 ### Task 5 Output 3:
-![Task 5 Output 3](output/Task5output3.png)
+![Task 5 Output 3](outputs/Task5output3.png)
 
 ### Task 5 Output 4:
-![Task 5 Output 4](output/Task5output4.png)
+![Task 5 Output 4](outputs/Task5output4.png)
 
 
 ---
